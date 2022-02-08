@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">AlarmApp</string>
     <string name="hour">Hour</string>
+    <string name="fijar_alarma">Fijar Alarma</string>
 </resources>
